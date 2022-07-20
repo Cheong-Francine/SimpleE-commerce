@@ -1,0 +1,16 @@
+.table-striped {
+    background-color: lightblue;
+    color: darkblue;
+    height: 100%;
+}
+
+i.box-circle-solid{
+    background-color:#35CBDF;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 22px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    width: 55px;
+}
